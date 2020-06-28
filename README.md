@@ -1,4 +1,4 @@
-# Pilha dinâmica
+# Pilha dinâmica.c
 ### Funções utilizadas:
 
    - Push (Insere elemento)
@@ -9,7 +9,8 @@
    - Testar se a pilha está vazia
    - Exibir todos os elementos da pilha
   
-# Prefixa
+# Prefixa.c
+  - Utilizar pilha dinâmica
   - Avaliar expressão prefixa 
   - Printar o resultado 
-  - Utilizar pilha dinâmica
+  

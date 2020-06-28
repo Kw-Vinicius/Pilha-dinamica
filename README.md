@@ -10,7 +10,5 @@
    - Exibir todos os elementos da pilha
   
 # Prefixa.c
-  - Utilizar pilha dinâmica
-  - Avaliar expressão prefixa 
-  - Printar o resultado 
+  Utilizando pilha dinâmica avalia uma expressão prefixa (Notação polonesa) e retorna seu resultado 
   

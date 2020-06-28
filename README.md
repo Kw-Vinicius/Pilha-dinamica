@@ -1,4 +1,5 @@
-# Funções utilizadas:
+# Pilha dinâmica
+## Funções utilizadas:
 
   - Push (Insere elemento)
   - Pop  (Remove elemento)
@@ -7,5 +8,8 @@
   - Apagar a pilha
   - Testar se a pilha está vazia
   - Exibir todos os elementos da pilha
-# Programa bônus
-  - Avaliar expressão prefixa e retornar o resultado, Utilizar pilha dinâmica
+  
+# Prefixa
+  - Avaliar expressão prefixa 
+  - Printar o resultado 
+  - Utilizar pilha dinâmica

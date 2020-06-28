@@ -1,5 +1,5 @@
 # Pilha dinâmica.c
-### > Funções utilizadas:
+### - Funções utilizadas:
 
    - Push (Insere elemento)
    - Pop  (Remove elemento)
